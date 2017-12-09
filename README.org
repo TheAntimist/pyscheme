@@ -1,0 +1,9 @@
+#+TITLE: Python Scheme Interpreter
+
+* Scheme interpreter in Python
+This was a proof of concept for me, where I worked on implementing a subset of [[http://www.schemers.org/Documents/Standards/R5RS/][R5RS]] the Scheme specification. This work is based on the blog post by Peter Norvig which can be found here: http://norvig.com/lispy.html 
+
+To run use:
+#+BEGIN_SRC bash
+python calc.py
+#+END_SRC
